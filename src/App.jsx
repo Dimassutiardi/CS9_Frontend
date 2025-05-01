@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import Products from "./pages/Products";
+import Login from "./Pages/Login";
+import Register from "./Pages/Register";
+import Products from "./Pages/Products";
 import Navbar from "./components/Navbar";
 
 function App() {
